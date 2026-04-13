@@ -1,0 +1,6 @@
+# Hardware configs are generated per-machine; keep them if you want to track them
+# hosts/*/hardware-configuration.nix
+
+result
+result-*
+.direnv
